@@ -11,7 +11,7 @@ b) Data types: unsigned char---8 bit size(0 to 255)
 				bit-- 1 bit size(RAM bit addressable only)
 				sfr--8 bit size(RAM address 80-FFH only)
 				
-The codes give clear idea of using data types in microcontoller prograaming.
+The codes give clear idea of using data types in microcontroller programming.
 
 
 
